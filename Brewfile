@@ -62,7 +62,7 @@ brew "unixodbc"
 brew "wget"
 brew "wxmac"
 brew "yarn", args: ["without-node"]
-cask "alfred2"
+cask "alfred"
 cask "appcleaner"
 cask "atom"
 cask "bartender"
