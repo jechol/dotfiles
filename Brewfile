@@ -60,6 +60,7 @@ brew "tmux"
 brew "tree"
 brew "unixodbc"
 brew "wget"
+brew "wrk"
 brew "wxmac"
 brew "yarn", args: ["without-node"]
 cask "alfred"
